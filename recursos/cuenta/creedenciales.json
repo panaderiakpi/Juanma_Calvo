@@ -110,8 +110,8 @@
     },
     "telegram": {
         "activo": true,
-        "bot_token": "",
-        "chat_id": ""
+        "bot_token": "7715518976:AAGmvM00mMmQitwBtfd_8pXuahMOnweYBiw",
+        "chat_id": "138930891"
     },
     "dropbox": {
         "activo": true,
