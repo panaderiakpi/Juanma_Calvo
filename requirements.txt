@@ -1,0 +1,6 @@
+requests
+dropbox
+configparser
+cryptography
+pycryptodomex
+fake_useragent

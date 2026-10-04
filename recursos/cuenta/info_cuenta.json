@@ -1,0 +1,21 @@
+{
+  "cod_usuario": "20735617",
+  "cod_usuario_cifrado": "7Y7f7x8G8R8i8o9A",
+  "login": "eneko.bun@zunibal.com",
+  "email": "eneko.bun@zunibal.com",
+  "tipo": "TITULAR",
+  "ofertas": [
+    {
+      "@plataforma": "MOVIST",
+      "@ind_principal": "S",
+      "@id_perfil": "OTT",
+      "@ind_autorizado": "S",
+      "cod_persona": "48110000144352",
+      "cod_oferta": "TEF",
+      "descriptor": "MOVISTAR+",
+      "user_uid": "d7b165fc-d85e-4534-9c09-f8f1d6d13b0f",
+      "origen": "YOMVI",
+      "accountNumber": "48110000144352-TEF"
+    }
+  ]
+}

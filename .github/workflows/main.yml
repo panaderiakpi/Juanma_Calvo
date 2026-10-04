@@ -1,0 +1,106 @@
+name: Ejecutar SCRIPT
+
+on:
+   workflow_dispatch: # Permitir ejecución manual
+
+jobs:
+  upload-m3u:
+    runs-on: ubuntu-latest
+
+    steps:
+      # Paso 1: Descargar el repositorio
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      # Paso 2: Instalar dependencias del sistema y de Python
+      - name: Install dependencies (Python & OpenVPN)
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y openvpn
+          if [ -f "requirements.txt" ]; then
+            python -m pip install --upgrade pip
+            pip install -r requirements.txt
+          else
+            echo "⚠️ No se encontró el archivo requirements.txt."
+          fi
+
+      # Paso 3: Preparar credenciales de VPN e IP original
+      - name: Setup VPN credentials and store original IP
+        run: |
+          echo "${{ secrets.OVPN_SURFSHARK }}" > openvpn_config.ovpn
+          echo "${{ secrets.VPN_USER }}" > vpn_auth.txt
+          echo "${{ secrets.VPN_PASS }}" >> vpn_auth.txt
+          
+          echo -n "IP original (sin VPN): "
+          curl -s ifconfig.me > ip_original.txt
+          cat ip_original.txt
+          echo ""
+        env:
+          OVPN_SURFSHARK: ${{ secrets.OVPN_SURFSHARK }}
+
+      # Paso 4: Bucle de ejecución con cambio de IP en caso de fallo
+      - name: Connect VPN and Run Python Script (With Retries)
+        env:
+          TERM: xterm
+        run: |
+          MAX_INTENTOS=5
+          INTENTO=1
+          IP_ORIGINAL=$(cat ip_original.txt)
+
+          while [ $INTENTO -le $MAX_INTENTOS ]; do
+            echo "========================================"
+            echo "🔄 Intento $INTENTO de $MAX_INTENTOS"
+            echo "========================================"
+
+            # 1. Limpiar procesos VPN previos solo en caso de reintento
+            sudo killall openvpn 2>/dev/null || true
+            sleep 2
+
+            # 2. Iniciar conexión OpenVPN
+            echo "🌐 Conectando a Surfshark VPN..."
+            sudo openvpn --config openvpn_config.ovpn --auth-user-pass vpn_auth.txt --daemon --log openvpn_log.txt
+
+            # 3. Esperar a que la VPN levante la interfaz de red
+            echo "Esperando 12 segundos a que se asigne la nueva IP..."
+            sleep 12
+
+            # 4. Comprobar la nueva IP asignada
+            IP_ACTUAL=$(curl -s ifconfig.me)
+            echo "IP pública actual: $IP_ACTUAL"
+
+            if [ "$IP_ORIGINAL" == "$IP_ACTUAL" ]; then
+              echo "⚠️ La VPN no se ha conectado correctamente (la IP sigue siendo la misma)."
+            else
+              echo "✅ VPN conectada correctamente."
+            fi
+
+            # 5. Ejecutar tu script de Python
+            echo "🚀 Lanzando movistar_live.py..."
+            if python movistar_live.py; then
+              echo "🎉 ¡Script ejecutado con éxito en el intento $INTENTO!"
+              # Mantenemos la VPN activa para que git push funcione correctamente
+              exit 0
+            fi
+
+            echo "⚠️ El intento $INTENTO falló (login erróneo / IP marcada). Cambiando de IP para el siguiente intento..."
+            ((INTENTO++))
+          done
+
+          echo "❌ Se alcanzó el límite de $MAX_INTENTOS reintentos sin éxito."
+          sudo killall openvpn 2>/dev/null || true
+          exit 1
+
+      # Paso 5: Añadir cambios al repositorio (Con limpieza de archivos ROOT)
+      - name: Commit and Push Changes
+        run: |
+          # Borrar archivos temporales
+          sudo rm -f openvpn_log.txt vpn_auth.txt openvpn_config.ovpn ip_original.txt resultado.txt
+          
+          git config user.name "GitHub Actions Bot"
+          git config user.email "actions@github.com"
+          git add . 
+          git diff --cached --exit-code || git commit -m "Actualizar archivos generados por RefreshGif.py"
+          git pull --rebase origin main  # <-- ESTA ES LA ÚNICA LÍNEA NUEVA
+          git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

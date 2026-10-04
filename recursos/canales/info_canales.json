@@ -1,0 +1,1618 @@
+[
+    {
+        "nombre": "LA 1",
+        "codigo_cadena": "TVE",
+        "dial": 1,
+        "casId": "4521",
+        "logo": "https://estatico.emisiondof6.com/recorte/m-DP/wpmos/TVE",
+        "mpd": "http://tvela1-dash-movistarplus.emisiondof6.com/manifest.mpd"
+    },
+    {
+        "nombre": "LA 2",
+        "codigo_cadena": "LA2",
+        "dial": 2,
+        "casId": "4522",
+        "logo": "https://estatico.emisiondof6.com/recorte/m-DP/wpmos/LA2",
+        "mpd": "http://la2-dash-movistarplus.emisiondof6.com/manifest.mpd"
+    },
+    {
+        "nombre": "Antena 3",
+        "codigo_cadena": "A3",
+        "dial": 3,
+        "casId": "4523",
+        "logo": "https://estatico.emisiondof6.com/recorte/m-DP/wpmos/A3",
+        "mpd": "http://antena3-dash-movistarplus.emisiondof6.com/manifest.mpd"
+    },
+    {
+        "nombre": "Cuatro",
+        "codigo_cadena": "C4",
+        "dial": 4,
+        "casId": "4524",
+        "logo": "https://estatico.emisiondof6.com/recorte/m-DP/wpmos/C4",
+        "mpd": "http://cuatro-dash-movistarplus.emisiondof6.com/manifest.mpd"
+    },
+    {
+        "nombre": "Telecinco",
+        "codigo_cadena": "T5",
+        "dial": 5,
+        "casId": "4525",
+        "logo": "https://estatico.emisiondof6.com/recorte/m-DP/wpmos/T5",
+        "mpd": "http://tele5-dash-movistarplus.emisiondof6.com/manifest.mpd"
+    },
+    {
+        "nombre": "La Sexta",
+        "codigo_cadena": "SEXTA",
+        "dial": 6,
+        "casId": "4526",
+        "logo": "https://estatico.emisiondof6.com/recorte/m-DP/wpmos/SEXTA",
+        "mpd": "http://lasexta-dash-movistarplus.emisiondof6.com/manifest.mpd"
+    },
+    {
+        "nombre": "Movistar Plus",
+        "codigo_cadena": "MPLUS",
+        "dial": 7,
+        "casId": "5240",
+        "logo": "https://estatico.emisiondof6.com/recorte/m-DP/wpmos/MPLUS",
+        "mpd": "http://mplus-dash-movistarplus.emisiondof6.com/manifest.mpd"
+    },
+    {
+        "nombre": "M+ Vamos",
+        "codigo_cadena": "VAMOSD",
+        "dial": 8,
+        "casId": "4767",
+        "logo": "https://estatico.emisiondof6.com/recorte/m-DP/wpmos/VAMOSD",
+        "mpd": "http://vamos-dash-movistarplus.emisiondof6.com/manifest.mpd"
+    },
+    {
+        "nombre": "M+ Estrenos",
+        "codigo_cadena": "MV1",
+        "dial": 12,
+        "casId": "4501",
+        "logo": "https://estatico.emisiondof6.com/recorte/m-DP/wpmos/MV1",
+        "mpd": "http://m1estrenos-dash-movistarplus.emisiondof6.com/manifest.mpd"
+    },
+    {
+        "nombre": "M+ Hits",
+        "codigo_cadena": "MHITS",
+        "dial": 13,
+        "casId": "4527",
+        "logo": "https://estatico.emisiondof6.com/recorte/m-DP/wpmos/MHITS",
+        "mpd": "http://m1hits-dash-movistarplus.emisiondof6.com/manifest.mpd"
+    },
+    {
+        "nombre": "M+ Originales",
+        "codigo_cadena": "MORIG",
+        "dial": 14,
+        "casId": "5259",
+        "logo": "https://estatico.emisiondof6.com/recorte/m-DP/wpmos/MORIG",
+        "mpd": "http://moriginales-dash-movistarplus.emisiondof6.com/manifest.mpd"
+    },
+    {
+        "nombre": "M+ Terror",
+        "codigo_cadena": "TERROR",
+        "dial": 15,
+        "casId": "4955",
+        "logo": "https://estatico.emisiondof6.com/recorte/m-DP/wpmos/TERROR",
+        "mpd": "http://1popup-dash-movistarplus.emisiondof6.com/manifest.mpd"
+    },
+    {
+        "nombre": "M+ Documentales",
+        "codigo_cadena": "MDOC",
+        "dial": 17,
+        "casId": "5245",
+        "logo": "https://estatico.emisiondof6.com/recorte/m-DP/wpmos/MDOC",
+        "mpd": "http://mdocumentales-dash-movistarplus.emisiondof6.com/manifest.mpd"
+    },
+    {
+        "nombre": "M+ Romance",
+        "codigo_cadena": "MROMA",
+        "dial": 18,
+        "casId": "5252",
+        "logo": "https://estatico.emisiondof6.com/recorte/m-DP/wpmos/MROMA",
+        "mpd": "http://02popup-dash-movistarplus.emisiondof6.com/manifest.mpd"
+    },
+    {
+        "nombre": "M+ Clásicos",
+        "codigo_cadena": "MCLAS",
+        "dial": 20,
+        "casId": "4999",
+        "logo": "https://estatico.emisiondof6.com/recorte/m-DP/wpmos/MCLAS",
+        "mpd": "http://mclasicos-dash-movistarplus.emisiondof6.com/manifest.mpd"
+    },
+    {
+        "nombre": "M+ Acción",
+        "codigo_cadena": "CPACCI",
+        "dial": 21,
+        "casId": "4542",
+        "logo": "https://estatico.emisiondof6.com/recorte/m-DP/wpmos/CPACCI",
+        "mpd": "http://accion-dash-movistarplus.emisiondof6.com/manifest.mpd"
+    },
+    {
+        "nombre": "M+ Comedia",
+        "codigo_cadena": "CPCOME",
+        "dial": 22,
+        "casId": "4573",
+        "logo": "https://estatico.emisiondof6.com/recorte/m-DP/wpmos/CPCOME",
+        "mpd": "http://comedia-dash-movistarplus.emisiondof6.com/manifest.mpd"
+    },
+    {
+        "nombre": "M+ Drama",
+        "codigo_cadena": "CPCOLE",
+        "dial": 23,
+        "casId": "4576",
+        "logo": "https://estatico.emisiondof6.com/recorte/m-DP/wpmos/CPCOLE",
+        "mpd": "http://drama-dash-movistarplus.emisiondof6.com/manifest.mpd"
+    },
+    {
+        "nombre": "M+ Indie",
+        "codigo_cadena": "MINDI",
+        "dial": 24,
+        "casId": "5249",
+        "logo": "https://estatico.emisiondof6.com/recorte/m-DP/wpmos/MINDI",
+        "mpd": "http://mindie-dash-movistarplus.emisiondof6.com/manifest.mpd"
+    },
+    {
+        "nombre": "M+ Cine Español",
+        "codigo_cadena": "DCESP",
+        "dial": 25,
+        "casId": "4502",
+        "logo": "https://estatico.emisiondof6.com/recorte/m-DP/wpmos/DCESP",
+        "mpd": "http://espanol-dash-movistarplus.emisiondof6.com/manifest.mpd"
+    },
+    {
+        "nombre": "HBO Max Avances",
+        "codigo_cadena": "MAXAVA",
+        "dial": 26,
+        "casId": "5333",
+        "logo": "https://estatico.emisiondof6.com/recorte/m-DP/wpmos/MAXAVA",
+        "mpd": "http://01max-dash-movistarplus.emisiondof6.com/manifest.mpd"
+    },
+    {
+        "nombre": "SkyShowtime 1",
+        "codigo_cadena": "SKYSHO",
+        "dial": 27,
+        "casId": "5271",
+        "logo": "https://estatico.emisiondof6.com/recorte/m-DP/wpmos/SKYSHO",
+        "mpd": "http://01sky-dash-movistarplus.emisiondof6.com/manifest.mpd"
+    },
+    {
+        "nombre": "Canal FlixOlé 1",
+        "codigo_cadena": "FLIX1",
+        "dial": 28,
+        "casId": "5493",
+        "logo": "https://estatico.emisiondof6.com/recorte/m-DP/wpmos/FLIX1",
+        "mpd": "http://1flixole-dash-movistarplus.emisiondof6.com/manifest.mpd"
+    },
+    {
+        "nombre": "Canal FlixOlé 2",
+        "codigo_cadena": "FLIX2",
+        "dial": 29,
+        "casId": "5496",
+        "logo": "https://estatico.emisiondof6.com/recorte/m-DP/wpmos/FLIX2",
+        "mpd": "http://2flixole-dash-movistarplus.emisiondof6.com/manifest.mpd"
+    },
+    {
+        "nombre": "TCM",
+        "codigo_cadena": "TCM",
+        "dial": 30,
+        "casId": "4603",
+        "logo": "https://estatico.emisiondof6.com/recorte/m-DP/wpmos/TCM",
+        "mpd": "http://tcm-dash-movistarplus.emisiondof6.com/manifest.mpd"
+    },
+    {
+        "nombre": "AXN Movies",
+        "codigo_cadena": "SET",
+        "dial": 31,
+        "casId": "4535",
+        "logo": "https://estatico.emisiondof6.com/recorte/m-DP/wpmos/SET",
+        "mpd": "http://moviesaxn-dash-movistarplus.emisiondof6.com/manifest.mpd"
+    },
+    {
+        "nombre": "BBC Series",
+        "codigo_cadena": "BBDRA",
+        "dial": 32,
+        "casId": "5363",
+        "logo": "https://estatico.emisiondof6.com/recorte/m-DP/wpmos/BBDRA",
+        "mpd": "http://seriesbbc-dash-movistarplus.emisiondof6.com/manifest.mpd"
+    },
+    {
+        "nombre": "BBC Top Gear",
+        "codigo_cadena": "BBGEA",
+        "dial": 34,
+        "casId": "5369",
+        "logo": "https://estatico.emisiondof6.com/recorte/m-DP/wpmos/BBGEA",
+        "mpd": "http://topgearbbc-dash-movistarplus.emisiondof6.com/manifest.mpd"
+    },
+    {
+        "nombre": "Squirrel",
+        "codigo_cadena": "SQUI",
+        "dial": 35,
+        "casId": "5509",
+        "logo": "https://estatico.emisiondof6.com/recorte/m-DP/wpmos/SQUI",
+        "mpd": "http://tvsquirrel-dash-movistarplus.emisiondof6.com/manifest.mpd"
+    },
+    {
+        "nombre": "BE MAD",
+        "codigo_cadena": "BEMAD",
+        "dial": 36,
+        "casId": "4560",
+        "logo": "https://estatico.emisiondof6.com/recorte/m-DP/wpmos/BEMAD",
+        "mpd": "http://bemad-dash-movistarplus.emisiondof6.com/manifest.mpd"
+    },
+    {
+        "nombre": "STAR Channel",
+        "codigo_cadena": "FOXGE",
+        "dial": 37,
+        "casId": "4528",
+        "logo": "https://estatico.emisiondof6.com/recorte/m-DP/wpmos/FOXGE",
+        "mpd": "http://01star-dash-movistarplus.emisiondof6.com/manifest.mpd"
+    },
+    {
+        "nombre": "AXN",
+        "codigo_cadena": "AXN",
+        "dial": 38,
+        "casId": "4529",
+        "logo": "https://estatico.emisiondof6.com/recorte/m-DP/wpmos/AXN",
+        "mpd": "http://1axn-dash-movistarplus.emisiondof6.com/manifest.mpd"
+    },
+    {
+        "nombre": "Warner TV",
+        "codigo_cadena": "TNT",
+        "dial": 39,
+        "casId": "4530",
+        "logo": "https://estatico.emisiondof6.com/recorte/m-DP/wpmos/TNT",
+        "mpd": "http://tvwarner-dash-movistarplus.emisiondof6.com/manifest.mpd"
+    },
+    {
+        "nombre": "Comedy Central",
+        "codigo_cadena": "PCM",
+        "dial": 40,
+        "casId": "4531",
+        "logo": "https://estatico.emisiondof6.com/recorte/m-DP/wpmos/PCM",
+        "mpd": "http://comedycentral-dash-movistarplus.emisiondof6.com/manifest.mpd"
+    },
+    {
+        "nombre": "Calle 13",
+        "codigo_cadena": "CL13",
+        "dial": 41,
+        "casId": "4532",
+        "logo": "https://estatico.emisiondof6.com/recorte/m-DP/wpmos/CL13",
+        "mpd": "http://calle13-dash-movistarplus.emisiondof6.com/manifest.mpd"
+    },
+    {
+        "nombre": "COSMO",
+        "codigo_cadena": "COSMO",
+        "dial": 42,
+        "casId": "4533",
+        "logo": "https://estatico.emisiondof6.com/recorte/m-DP/wpmos/COSMO",
+        "mpd": "http://cosmo-dash-movistarplus.emisiondof6.com/manifest.mpd"
+    },
+    {
+        "nombre": "SciFi",
+        "codigo_cadena": "SCI-FI",
+        "dial": 43,
+        "casId": "4536",
+        "logo": "https://estatico.emisiondof6.com/recorte/m-DP/wpmos/SCI-FI",
+        "mpd": "http://syfy-dash-movistarplus.emisiondof6.com/manifest.mpd"
+    },
+    {
+        "nombre": "Veo7",
+        "codigo_cadena": "VEO7",
+        "dial": 44,
+        "casId": "5479",
+        "logo": "https://estatico.emisiondof6.com/recorte/m-DP/wpmos/VEO7",
+        "mpd": "http://veo7-dash-movistarplus.emisiondof6.com/manifest.mpd"
+    },
+    {
+        "nombre": "TRECE",
+        "codigo_cadena": "13TV",
+        "dial": 45,
+        "casId": "5094",
+        "logo": "https://estatico.emisiondof6.com/recorte/m-DP/wpmos/13TV",
+        "mpd": "http://tdt13tv-dash-movistarplus.emisiondof6.com/manifest.mpd"
+    },
+    {
+        "nombre": "Energy",
+        "codigo_cadena": "ENERGY",
+        "dial": 46,
+        "casId": "4540",
+        "logo": "https://estatico.emisiondof6.com/recorte/m-DP/wpmos/ENERGY",
+        "mpd": "http://energy-dash-movistarplus.emisiondof6.com/manifest.mpd"
+    },
+    {
+        "nombre": "Factoría de Ficción",
+        "codigo_cadena": "FDFIC",
+        "dial": 47,
+        "casId": "4537",
+        "logo": "https://estatico.emisiondof6.com/recorte/m-DP/wpmos/FDFIC",
+        "mpd": "http://fdf-dash-movistarplus.emisiondof6.com/manifest.mpd"
+    },
+    {
+        "nombre": "Neox",
+        "codigo_cadena": "NEOX",
+        "dial": 48,
+        "casId": "4538",
+        "logo": "https://estatico.emisiondof6.com/recorte/m-DP/wpmos/NEOX",
+        "mpd": "http://neox-dash-movistarplus.emisiondof6.com/manifest.mpd"
+    },
+    {
+        "nombre": "Atreseries",
+        "codigo_cadena": "ATRESS",
+        "dial": 49,
+        "casId": "4539",
+        "logo": "https://estatico.emisiondof6.com/recorte/m-DP/wpmos/ATRESS",
+        "mpd": "http://a3series-dash-movistarplus.emisiondof6.com/manifest.mpd"
+    },
+    {
+        "nombre": "M+ Vamos 2",
+        "codigo_cadena": "VAM2SD",
+        "dial": 51,
+        "casId": "5490",
+        "logo": "https://estatico.emisiondof6.com/recorte/m-DP/wpmos/VAM2SD",
+        "mpd": "http://m2vamo-dash-movistarplus.emisiondof6.com/manifest.mpd"
+    },
+    {
+        "nombre": "M+ Vamos 3",
+        "codigo_cadena": "MELLAV",
+        "dial": 52,
+        "casId": "5093",
+        "logo": "https://estatico.emisiondof6.com/recorte/m-DP/wpmos/MELLAV",
+        "mpd": "http://m3vamo-dash-movistarplus.emisiondof6.com/manifest.mpd"
+    },
+    {
+        "nombre": "Primera Federación",
+        "codigo_cadena": "MCOPA",
+        "dial": 53,
+        "casId": "5355",
+        "logo": "https://estatico.emisiondof6.com/recorte/m-DP/wpmos/MCOPA",
+        "mpd": "http://01coparey-dash-movistarplus.emisiondof6.com/manifest.mpd"
+    },
+    {
+        "nombre": "M+ LALIGA",
+        "codigo_cadena": "MLIGA",
+        "dial": 54,
+        "casId": "4882",
+        "logo": "https://estatico.emisiondof6.com/recorte/m-DP/wpmos/MLIGA",
+        "mpd": "http://mlaliga-dash-movistarplus.emisiondof6.com/manifest.mpd"
+    },
+    {
+        "nombre": "DAZN LALIGA",
+        "codigo_cadena": "DAZNLI",
+        "dial": 55,
+        "casId": "5119",
+        "logo": "https://estatico.emisiondof6.com/recorte/m-DP/wpmos/DAZNLI",
+        "mpd": "http://01ligdazn-dash-movistarplus.emisiondof6.com/manifest.mpd"
+    },
+    {
+        "nombre": "LALIGA TV HYPERMOTION",
+        "codigo_cadena": "MLIGS",
+        "dial": 56,
+        "casId": "5124",
+        "logo": "https://estatico.emisiondof6.com/recorte/m-DP/wpmos/MLIGS",
+        "mpd": "http://msegdiv-dash-movistarplus.emisiondof6.com/manifest.mpd"
+    },
+    {
+        "nombre": "M+ LALIGA 2",
+        "codigo_cadena": "MLIG1",
+        "dial": 57,
+        "casId": "4833",
+        "logo": "https://estatico.emisiondof6.com/recorte/m-DP/wpmos/MLIG1",
+        "mpd": "http://2liga-dash-movistarplus.emisiondof6.com/manifest.mpd"
+    },
+    {
+        "nombre": "DAZN LALIGA 2",
+        "codigo_cadena": "DAZNL2",
+        "dial": 58,
+        "casId": "5120",
+        "logo": "https://estatico.emisiondof6.com/recorte/m-DP/wpmos/DAZNL2",
+        "mpd": "http://02ligdazn-dash-movistarplus.emisiondof6.com/manifest.mpd"
+    },
+    {
+        "nombre": "LALIGA TV HYPERMOTION 2",
+        "codigo_cadena": "MLIGS2",
+        "dial": 59,
+        "casId": "5127",
+        "logo": "https://estatico.emisiondof6.com/recorte/m-DP/wpmos/MLIGS2",
+        "mpd": "http://2segdiv-dash-movistarplus.emisiondof6.com/manifest.mpd"
+    },
+    {
+        "nombre": "M+ Liga de Campeones",
+        "codigo_cadena": "CHAPIO",
+        "dial": 60,
+        "casId": "4594",
+        "logo": "https://estatico.emisiondof6.com/recorte/m-DP/wpmos/CHAPIO",
+        "mpd": "http://mligacampeones-dash-movistarplus.emisiondof6.com/manifest.mpd"
+    },
+    {
+        "nombre": "M+ Liga de Campeones 2",
+        "codigo_cadena": "CHAP1",
+        "dial": 61,
+        "casId": "4581",
+        "logo": "https://estatico.emisiondof6.com/recorte/m-DP/wpmos/CHAP1",
+        "mpd": "http://02campeones-dash-movistarplus.emisiondof6.com/manifest.mpd"
+    },
+    {
+        "nombre": "M+ Liga de Campeones  3",
+        "codigo_cadena": "CHAP2",
+        "dial": 62,
+        "casId": "4564",
+        "logo": "https://estatico.emisiondof6.com/recorte/m-DP/wpmos/CHAP2",
+        "mpd": "http://03campeones-dash-movistarplus.emisiondof6.com/manifest.mpd"
+    },
+    {
+        "nombre": "M+ Deportes",
+        "codigo_cadena": "CPDEP",
+        "dial": 63,
+        "casId": "4592",
+        "logo": "https://estatico.emisiondof6.com/recorte/m-DP/wpmos/CPDEP",
+        "mpd": "http://mdeportes-dash-movistarplus.emisiondof6.com/manifest.mpd"
+    },
+    {
+        "nombre": "M+ Deportes 2",
+        "codigo_cadena": "ARTHUR",
+        "dial": 64,
+        "casId": "4585",
+        "logo": "https://estatico.emisiondof6.com/recorte/m-DP/wpmos/ARTHUR",
+        "mpd": "http://2multidep-dash-movistarplus.emisiondof6.com/manifest.mpd"
+    },
+    {
+        "nombre": "M+ Deportes 3",
+        "codigo_cadena": "USOP2",
+        "dial": 65,
+        "casId": "4556",
+        "logo": "https://estatico.emisiondof6.com/recorte/m-DP/wpmos/USOP2",
+        "mpd": "http://3multidep-dash-movistarplus.emisiondof6.com/manifest.mpd"
+    },
+    {
+        "nombre": "M+ Baloncesto",
+        "codigo_cadena": "MBALCT",
+        "dial": 66,
+        "casId": "5536",
+        "logo": "https://estatico.emisiondof6.com/recorte/m-DP/wpmos/MBALCT",
+        "mpd": "http://1mbasket-dash-movistarplus.emisiondof6.com/manifest.mpd"
+    },
+    {
+        "nombre": "M+ Baloncesto 2",
+        "codigo_cadena": "MBALC2",
+        "dial": 67,
+        "casId": "5539",
+        "logo": "https://estatico.emisiondof6.com/recorte/m-DP/wpmos/MBALC2",
+        "mpd": "http://2mbasket-dash-movistarplus.emisiondof6.com/manifest.mpd"
+    },
+    {
+        "nombre": "M+ Golf",
+        "codigo_cadena": "GOLF+",
+        "dial": 68,
+        "casId": "4584",
+        "logo": "https://estatico.emisiondof6.com/recorte/m-DP/wpmos/GOLF%2B",
+        "mpd": "http://mgolf-dash-movistarplus.emisiondof6.com/manifest.mpd"
+    },
+    {
+        "nombre": "M+ Golf 2",
+        "codigo_cadena": "GOLF2",
+        "dial": 69,
+        "casId": "5196",
+        "logo": "https://estatico.emisiondof6.com/recorte/m-DP/wpmos/GOLF2",
+        "mpd": "http://2golf-dash-movistarplus.emisiondof6.com/manifest.mpd"
+    },
+    {
+        "nombre": "DAZN F1",
+        "codigo_cadena": "MVF1",
+        "dial": 70,
+        "casId": "4608",
+        "logo": "https://estatico.emisiondof6.com/recorte/m-DP/wpmos/MVF1",
+        "mpd": "http://formula1-dash-movistarplus.emisiondof6.com/manifest.mpd"
+    },
+    {
+        "nombre": "DAZN MotoGP",
+        "codigo_cadena": "DAZMOT",
+        "dial": 71,
+        "casId": "5523",
+        "logo": "https://estatico.emisiondof6.com/recorte/m-DP/wpmos/DAZMOT",
+        "mpd": "http://1motodazn-dash-movistarplus.emisiondof6.com/manifest.mpd"
+    },
+    {
+        "nombre": "DAZN 1",
+        "codigo_cadena": "M1SD",
+        "dial": 72,
+        "casId": "4949",
+        "logo": "https://estatico.emisiondof6.com/recorte/m-DP/wpmos/M1SD",
+        "mpd": "http://01dazn-dash-movistarplus.emisiondof6.com/manifest.mpd"
+    },
+    {
+        "nombre": "DAZN 2",
+        "codigo_cadena": "M2SD",
+        "dial": 73,
+        "casId": "4950",
+        "logo": "https://estatico.emisiondof6.com/recorte/m-DP/wpmos/M2SD",
+        "mpd": "http://02dazn-dash-movistarplus.emisiondof6.com/manifest.mpd"
+    },
+    {
+        "nombre": "DAZN Baloncesto",
+        "codigo_cadena": "DAZBA",
+        "dial": 74,
+        "casId": "5499",
+        "logo": "https://estatico.emisiondof6.com/recorte/m-DP/wpmos/DAZBA",
+        "mpd": "http://1basketdazn-dash-movistarplus.emisiondof6.com/manifest.mpd"
+    },
+    {
+        "nombre": "DAZN Baloncesto 2",
+        "codigo_cadena": "DAZB2",
+        "dial": 75,
+        "casId": "5503",
+        "logo": "https://estatico.emisiondof6.com/recorte/m-DP/wpmos/DAZB2",
+        "mpd": "http://2basketdazn-dash-movistarplus.emisiondof6.com/manifest.mpd"
+    },
+    {
+        "nombre": "DAZN Baloncesto 3",
+        "codigo_cadena": "DAZB3",
+        "dial": 76,
+        "casId": "5506",
+        "logo": "https://estatico.emisiondof6.com/recorte/m-DP/wpmos/DAZB3",
+        "mpd": "http://3basketdazn-dash-movistarplus.emisiondof6.com/manifest.mpd"
+    },
+    {
+        "nombre": "Eurosport 1",
+        "codigo_cadena": "ESP",
+        "dial": 77,
+        "casId": "4605",
+        "logo": "https://estatico.emisiondof6.com/recorte/m-DP/wpmos/ESP",
+        "mpd": "http://eurosport1-dash-movistarplus.emisiondof6.com/manifest.mpd"
+    },
+    {
+        "nombre": "Eurosport 2",
+        "codigo_cadena": "ESP2",
+        "dial": 78,
+        "casId": "4580",
+        "logo": "https://estatico.emisiondof6.com/recorte/m-DP/wpmos/ESP2",
+        "mpd": "http://eurosport2-dash-movistarplus.emisiondof6.com/manifest.mpd"
+    },
+    {
+        "nombre": "Replay",
+        "codigo_cadena": "GOL",
+        "dial": 79,
+        "casId": "4577",
+        "logo": "https://estatico.emisiondof6.com/recorte/m-DP/wpmos/GOL",
+        "mpd": "http://goltv-dash-movistarplus.emisiondof6.com/manifest.mpd"
+    },
+    {
+        "nombre": "Teledeporte",
+        "codigo_cadena": "TDEP",
+        "dial": 80,
+        "casId": "4504",
+        "logo": "https://estatico.emisiondof6.com/recorte/m-DP/wpmos/TDEP",
+        "mpd": "http://teledeporte-dash-movistarplus.emisiondof6.com/manifest.mpd"
+    },
+    {
+        "nombre": "Real Madrid TV",
+        "codigo_cadena": "REALM",
+        "dial": 81,
+        "casId": "5198",
+        "logo": "https://estatico.emisiondof6.com/recorte/m-DP/wpmos/REALM",
+        "mpd": "http://realmadrid-dash-movistarplus.emisiondof6.com/manifest.mpd"
+    },
+    {
+        "nombre": "Caza y Pesca",
+        "codigo_cadena": "CAZPES",
+        "dial": 82,
+        "casId": "4606",
+        "logo": "https://estatico.emisiondof6.com/recorte/m-DP/wpmos/CAZPES",
+        "mpd": "http://cazaypesca-dash-movistarplus.emisiondof6.com/manifest.mpd"
+    },
+    {
+        "nombre": "National Geographic",
+        "codigo_cadena": "NATGEO",
+        "dial": 86,
+        "casId": "4604",
+        "logo": "https://estatico.emisiondof6.com/recorte/m-DP/wpmos/NATGEO",
+        "mpd": "http://geonat-dash-movistarplus.emisiondof6.com/manifest.mpd"
+    },
+    {
+        "nombre": "Nat Geo Wild",
+        "codigo_cadena": "NATGW",
+        "dial": 87,
+        "casId": "4610",
+        "logo": "https://estatico.emisiondof6.com/recorte/m-DP/wpmos/NATGW",
+        "mpd": "http://wildnatgeo-dash-movistarplus.emisiondof6.com/manifest.mpd"
+    },
+    {
+        "nombre": "BBC History",
+        "codigo_cadena": "BBHIS",
+        "dial": 88,
+        "casId": "5366",
+        "logo": "https://estatico.emisiondof6.com/recorte/m-DP/wpmos/BBHIS",
+        "mpd": "http://historybbc-dash-movistarplus.emisiondof6.com/manifest.mpd"
+    },
+    {
+        "nombre": "Discovery",
+        "codigo_cadena": "DCR",
+        "dial": 89,
+        "casId": "4545",
+        "logo": "https://estatico.emisiondof6.com/recorte/m-DP/wpmos/DCR",
+        "mpd": "http://discovery-dash-movistarplus.emisiondof6.com/manifest.mpd"
+    },
+    {
+        "nombre": "BBC Earth",
+        "codigo_cadena": "BBCEAR",
+        "dial": 90,
+        "casId": "5485",
+        "logo": "https://estatico.emisiondof6.com/recorte/m-DP/wpmos/BBCEAR",
+        "mpd": "http://earthbbc-dash-movistarplus.emisiondof6.com/manifest.mpd"
+    },
+    {
+        "nombre": "DMAX",
+        "codigo_cadena": "DCRMAX",
+        "dial": 91,
+        "casId": "5244",
+        "logo": "https://estatico.emisiondof6.com/recorte/m-DP/wpmos/DCRMAX",
+        "mpd": "http://dmax-dash-movistarplus.emisiondof6.com/manifest.mpd"
+    },
+    {
+        "nombre": "BBC Food",
+        "codigo_cadena": "BBFOO",
+        "dial": 92,
+        "casId": "5360",
+        "logo": "https://estatico.emisiondof6.com/recorte/m-DP/wpmos/BBFOO",
+        "mpd": "http://foodbbc-dash-movistarplus.emisiondof6.com/manifest.mpd"
+    },
+    {
+        "nombre": "BBC Lifestyle",
+        "codigo_cadena": "BBCLIF",
+        "dial": 93,
+        "casId": "5482",
+        "logo": "https://estatico.emisiondof6.com/recorte/m-DP/wpmos/BBCLIF",
+        "mpd": "http://lifebbc-dash-movistarplus.emisiondof6.com/manifest.mpd"
+    },
+    {
+        "nombre": "DKISS",
+        "codigo_cadena": "DKISS",
+        "dial": 94,
+        "casId": "5246",
+        "logo": "https://estatico.emisiondof6.com/recorte/m-DP/wpmos/DKISS",
+        "mpd": "http://dkiss-dash-movistarplus.emisiondof6.com/manifest.mpd"
+    },
+    {
+        "nombre": "Divinity",
+        "codigo_cadena": "DIVINI",
+        "dial": 95,
+        "casId": "4507",
+        "logo": "https://estatico.emisiondof6.com/recorte/m-DP/wpmos/DIVINI",
+        "mpd": "http://divinity-dash-movistarplus.emisiondof6.com/manifest.mpd"
+    },
+    {
+        "nombre": "Nova",
+        "codigo_cadena": "NOVA",
+        "dial": 96,
+        "casId": "4601",
+        "logo": "https://estatico.emisiondof6.com/recorte/m-DP/wpmos/NOVA",
+        "mpd": "http://nova-dash-movistarplus.emisiondof6.com/manifest.mpd"
+    },
+    {
+        "nombre": "Mega",
+        "codigo_cadena": "MEGA",
+        "dial": 97,
+        "casId": "4558",
+        "logo": "https://estatico.emisiondof6.com/recorte/m-DP/wpmos/MEGA",
+        "mpd": "http://mega-dash-movistarplus.emisiondof6.com/manifest.mpd"
+    },
+    {
+        "nombre": "Ten",
+        "codigo_cadena": "TEN",
+        "dial": 98,
+        "casId": "5253",
+        "logo": "https://estatico.emisiondof6.com/recorte/m-DP/wpmos/TEN",
+        "mpd": "http://tvten-dash-movistarplus.emisiondof6.com/manifest.mpd"
+    },
+    {
+        "nombre": "Baby TV",
+        "codigo_cadena": "BABY",
+        "dial": 110,
+        "casId": "4508",
+        "logo": "https://estatico.emisiondof6.com/recorte/m-DP/wpmos/BABY",
+        "mpd": "http://babytv-dash-movistarplus.emisiondof6.com/manifest.mpd"
+    },
+    {
+        "nombre": "Disney Channel",
+        "codigo_cadena": "PLAYDC",
+        "dial": 111,
+        "casId": "4509",
+        "logo": "https://estatico.emisiondof6.com/recorte/m-DP/wpmos/PLAYDC",
+        "mpd": "http://jrdisney-dash-movistarplus.emisiondof6.com/manifest.mpd"
+    },
+    {
+        "nombre": "NICK JR",
+        "codigo_cadena": "NICKJR",
+        "dial": 113,
+        "casId": "4511",
+        "logo": "https://estatico.emisiondof6.com/recorte/m-DP/wpmos/NICKJR",
+        "mpd": "http://jrnick-dash-movistarplus.emisiondof6.com/manifest.mpd"
+    },
+    {
+        "nombre": "Nickelodeon",
+        "codigo_cadena": "NICK",
+        "dial": 114,
+        "casId": "4512",
+        "logo": "https://estatico.emisiondof6.com/recorte/m-DP/wpmos/NICK",
+        "mpd": "http://nickelodeon-dash-movistarplus.emisiondof6.com/manifest.mpd"
+    },
+    {
+        "nombre": "Dreamworks",
+        "codigo_cadena": "DWSP",
+        "dial": 115,
+        "casId": "4965",
+        "logo": "https://estatico.emisiondof6.com/recorte/m-DP/wpmos/DWSP",
+        "mpd": "http://dreamworks-dash-movistarplus.emisiondof6.com/manifest.mpd"
+    },
+    {
+        "nombre": "Boing",
+        "codigo_cadena": "BOING",
+        "dial": 117,
+        "casId": "4563",
+        "logo": "https://estatico.emisiondof6.com/recorte/m-DP/wpmos/BOING",
+        "mpd": "http://boing-dash-movistarplus.emisiondof6.com/manifest.mpd"
+    },
+    {
+        "nombre": "Clan TVE",
+        "codigo_cadena": "CLANTV",
+        "dial": 118,
+        "casId": "4611",
+        "logo": "https://estatico.emisiondof6.com/recorte/m-DP/wpmos/CLANTV",
+        "mpd": "http://clan-dash-movistarplus.emisiondof6.com/manifest.mpd"
+    },
+    {
+        "nombre": "MTV",
+        "codigo_cadena": "MTV",
+        "dial": 120,
+        "casId": "4499",
+        "logo": "https://estatico.emisiondof6.com/recorte/m-DP/wpmos/MTV",
+        "mpd": "http://espanamtv-dash-movistarplus.emisiondof6.com/manifest.mpd"
+    },
+    {
+        "nombre": "Mezzo",
+        "codigo_cadena": "MEZZO",
+        "dial": 123,
+        "casId": "4571",
+        "logo": "https://estatico.emisiondof6.com/recorte/m-DP/wpmos/MEZZO",
+        "mpd": "http://sdmezzo-dash-movistarplus.emisiondof6.com/manifest.mpd"
+    },
+    {
+        "nombre": "Mezzo Live",
+        "codigo_cadena": "MEZZLI",
+        "dial": 124,
+        "casId": "4891",
+        "logo": "https://estatico.emisiondof6.com/recorte/m-DP/wpmos/MEZZLI",
+        "mpd": "http://livehdmezzo-dash-movistarplus.emisiondof6.com/manifest.mpd"
+    },
+    {
+        "nombre": "Classica",
+        "codigo_cadena": "CLASSD",
+        "dial": 125,
+        "casId": "4612",
+        "logo": "https://estatico.emisiondof6.com/recorte/m-DP/wpmos/CLASSD",
+        "mpd": "http://clasica-dash-movistarplus.emisiondof6.com/manifest.mpd"
+    },
+    {
+        "nombre": "24 Horas",
+        "codigo_cadena": "24H",
+        "dial": 127,
+        "casId": "4544",
+        "logo": "https://estatico.emisiondof6.com/recorte/m-DP/wpmos/24H",
+        "mpd": "http://24horas-dash-movistarplus.emisiondof6.com/manifest.mpd"
+    },
+    {
+        "nombre": "BBC News",
+        "codigo_cadena": "BBC",
+        "dial": 128,
+        "casId": "5256",
+        "logo": "https://estatico.emisiondof6.com/recorte/m-DP/wpmos/BBC",
+        "mpd": "http://worldbbc-dash-movistarplus.emisiondof6.com/manifest.mpd"
+    },
+    {
+        "nombre": "CNN Int",
+        "codigo_cadena": "CNN",
+        "dial": 129,
+        "casId": "5254",
+        "logo": "https://estatico.emisiondof6.com/recorte/m-DP/wpmos/CNN",
+        "mpd": "http://intcnn-dash-movistarplus.emisiondof6.com/manifest.mpd"
+    },
+    {
+        "nombre": "Euronews",
+        "codigo_cadena": "ENW",
+        "dial": 131,
+        "casId": "5255",
+        "logo": "https://estatico.emisiondof6.com/recorte/m-DP/wpmos/ENW",
+        "mpd": "http://1euronews-dash-movistarplus.emisiondof6.com/manifest.mpd"
+    },
+    {
+        "nombre": "Al Jazeera English",
+        "codigo_cadena": "ALJAZE",
+        "dial": 132,
+        "casId": "5281",
+        "logo": "https://estatico.emisiondof6.com/recorte/m-DP/wpmos/ALJAZE",
+        "mpd": "http://aljazeera-dash-movistarplus.emisiondof6.com/manifest.mpd"
+    },
+    {
+        "nombre": "FRANCE24 (FR)",
+        "codigo_cadena": "FRANCE",
+        "dial": 133,
+        "casId": "5282",
+        "logo": "https://estatico.emisiondof6.com/recorte/m-DP/wpmos/FRANCE",
+        "mpd": "http://24france-dash-movistarplus.emisiondof6.com/manifest.mpd"
+    },
+    {
+        "nombre": "1+1 Internacional",
+        "codigo_cadena": "INTEUA",
+        "dial": 135,
+        "casId": "5283",
+        "logo": "https://estatico.emisiondof6.com/recorte/m-DP/wpmos/INTEUA",
+        "mpd": "http://11int-dash-movistarplus.emisiondof6.com/manifest.mpd"
+    },
+    {
+        "nombre": "CNBC",
+        "codigo_cadena": "NBC",
+        "dial": 136,
+        "casId": "5284",
+        "logo": "https://estatico.emisiondof6.com/recorte/m-DP/wpmos/NBC",
+        "mpd": "http://01cnbc-dash-movistarplus.emisiondof6.com/manifest.mpd"
+    },
+    {
+        "nombre": "TV5MONDE",
+        "codigo_cadena": "TV5",
+        "dial": 137,
+        "casId": "5285",
+        "logo": "https://estatico.emisiondof6.com/recorte/m-DP/wpmos/TV5",
+        "mpd": "http://tv5monde-dash-movistarplus.emisiondof6.com/manifest.mpd"
+    },
+    {
+        "nombre": "Bloomberg",
+        "codigo_cadena": "BL",
+        "dial": 138,
+        "casId": "5286",
+        "logo": "https://estatico.emisiondof6.com/recorte/m-DP/wpmos/BL",
+        "mpd": "http://tvbloomberg-dash-movistarplus.emisiondof6.com/manifest.mpd"
+    },
+    {
+        "nombre": "El Toro TV",
+        "codigo_cadena": "INTECO",
+        "dial": 139,
+        "casId": "4893",
+        "logo": "https://estatico.emisiondof6.com/recorte/m-DP/wpmos/INTECO",
+        "mpd": "http://eltorotv-dash-movistarplus.emisiondof6.com/manifest.mpd"
+    },
+    {
+        "nombre": "Negocios TV",
+        "codigo_cadena": "NEGOTV",
+        "dial": 140,
+        "casId": "4985",
+        "logo": "https://estatico.emisiondof6.com/recorte/m-DP/wpmos/NEGOTV",
+        "mpd": "http://negociostv-dash-movistarplus.emisiondof6.com/manifest.mpd"
+    },
+    {
+        "nombre": "CGTN Español",
+        "codigo_cadena": "CCTV-E",
+        "dial": 141,
+        "casId": "5287",
+        "logo": "https://estatico.emisiondof6.com/recorte/m-DP/wpmos/CCTV-E",
+        "mpd": "http://cgtn-dash-movistarplus.emisiondof6.com/manifest.mpd"
+    },
+    {
+        "nombre": "UCL",
+        "codigo_cadena": "UCL",
+        "dial": 143,
+        "casId": "5414",
+        "logo": "https://estatico.emisiondof6.com/recorte/m-DP/wpmos/UCL",
+        "mpd": "http://tvucl-dash-movistarplus.emisiondof6.com/manifest.mpd"
+    },
+    {
+        "nombre": "Canal RED",
+        "codigo_cadena": "RED",
+        "dial": 150,
+        "casId": "5529",
+        "logo": "https://estatico.emisiondof6.com/recorte/m-DP/wpmos/RED",
+        "mpd": "http://redcanal-dash-movistarplus.emisiondof6.com/manifest.mpd"
+    },
+    {
+        "nombre": "Canal Sur Andalucía",
+        "codigo_cadena": "ANTV",
+        "dial": 151,
+        "casId": "4764",
+        "logo": "https://estatico.emisiondof6.com/recorte/m-DP/wpmos/ANTV",
+        "mpd": "http://csur-dash-movistarplus.emisiondof6.com/manifest.mpd"
+    },
+    {
+        "nombre": "TVG Europa",
+        "codigo_cadena": "TVG",
+        "dial": 152,
+        "casId": "4548",
+        "logo": "https://estatico.emisiondof6.com/recorte/m-DP/wpmos/TVG",
+        "mpd": "http://galicia-dash-movistarplus.emisiondof6.com/manifest.mpd"
+    },
+    {
+        "nombre": "Canal Extremadura Sat",
+        "codigo_cadena": "EXTREM",
+        "dial": 153,
+        "casId": "4614",
+        "logo": "https://estatico.emisiondof6.com/recorte/m-DP/wpmos/EXTREM",
+        "mpd": "http://extremadura-dash-movistarplus.emisiondof6.com/manifest.mpd"
+    },
+    {
+        "nombre": "TV3 Cat",
+        "codigo_cadena": "TVC",
+        "dial": 154,
+        "casId": "4555",
+        "logo": "https://estatico.emisiondof6.com/recorte/m-DP/wpmos/TVC",
+        "mpd": "http://tv3cat-dash-movistarplus.emisiondof6.com/manifest.mpd"
+    },
+    {
+        "nombre": "Aragón TV Int",
+        "codigo_cadena": "ARAGON",
+        "dial": 156,
+        "casId": "4615",
+        "logo": "https://estatico.emisiondof6.com/recorte/m-DP/wpmos/ARAGON",
+        "mpd": "http://aragon-dash-movistarplus.emisiondof6.com/manifest.mpd"
+    },
+    {
+        "nombre": "Telemadrid Int.",
+        "codigo_cadena": "TELMIN",
+        "dial": 157,
+        "casId": "5092",
+        "logo": "https://estatico.emisiondof6.com/recorte/m-DP/wpmos/TELMIN",
+        "mpd": "http://inttelemadrid-dash-movistarplus.emisiondof6.com/manifest.mpd"
+    },
+    {
+        "nombre": "etb1ON",
+        "codigo_cadena": "ETB3",
+        "dial": 158,
+        "casId": "5531",
+        "logo": "https://estatico.emisiondof6.com/recorte/m-DP/wpmos/ETB3",
+        "mpd": "http://etb1onsat-dash-movistarplus.emisiondof6.com/manifest.mpd"
+    },
+    {
+        "nombre": "etb2ON",
+        "codigo_cadena": "ETB",
+        "dial": 159,
+        "casId": "4557",
+        "logo": "https://estatico.emisiondof6.com/recorte/m-DP/wpmos/ETB",
+        "mpd": "http://etb2onsat-dash-movistarplus.emisiondof6.com/manifest.mpd"
+    },
+    {
+        "nombre": "M+ LALIGA 3",
+        "codigo_cadena": "MLIG2",
+        "dial": 167,
+        "casId": "4834",
+        "logo": "https://estatico.emisiondof6.com/recorte/m-DP/wpmos/MLIG2",
+        "mpd": "http://3liga-dash-movistarplus.emisiondof6.com/manifest.mpd"
+    },
+    {
+        "nombre": "M+ LALIGA 4",
+        "codigo_cadena": "MLIG3",
+        "dial": 168,
+        "casId": "4835",
+        "logo": "https://estatico.emisiondof6.com/recorte/m-DP/wpmos/MLIG3",
+        "mpd": "http://4liga-dash-movistarplus.emisiondof6.com/manifest.mpd"
+    },
+    {
+        "nombre": "CGTN Documentary",
+        "codigo_cadena": "CGTND",
+        "dial": 142,
+        "casId": "5352",
+        "logo": "https://estatico.emisiondof6.com/recorte/m-DP/wpmos/CGTND",
+        "mpd": "http://canalesabr-dash-movistarplus.emisiondof6.com/manifest.mpd"
+    },
+    {
+        "nombre": "LALIGA TV HYPERMOTION 3",
+        "codigo_cadena": "MLIGS3",
+        "dial": 178,
+        "casId": "5137",
+        "logo": "https://estatico.emisiondof6.com/recorte/m-DP/wpmos/MLIGS3",
+        "mpd": "http://3segdiv-dash-movistarplus.emisiondof6.com/manifest.mpd"
+    },
+    {
+        "nombre": "M+ Liga de Campeones  4",
+        "codigo_cadena": "CHAP3",
+        "dial": 180,
+        "casId": "4565",
+        "logo": "https://estatico.emisiondof6.com/recorte/m-DP/wpmos/CHAP3",
+        "mpd": "http://04campeones-dash-movistarplus.emisiondof6.com/manifest.mpd"
+    },
+    {
+        "nombre": "M+ Liga de Campeones 5",
+        "codigo_cadena": "CHAP4",
+        "dial": 181,
+        "casId": "4568",
+        "logo": "https://estatico.emisiondof6.com/recorte/m-DP/wpmos/CHAP4",
+        "mpd": "http://05campeones-dash-movistarplus.emisiondof6.com/manifest.mpd"
+    },
+    {
+        "nombre": "M+ Liga de Campeones 6",
+        "codigo_cadena": "CHAP5",
+        "dial": 182,
+        "casId": "4570",
+        "logo": "https://estatico.emisiondof6.com/recorte/m-DP/wpmos/CHAP5",
+        "mpd": "http://06campeones-dash-movistarplus.emisiondof6.com/manifest.mpd"
+    },
+    {
+        "nombre": "M+ Liga de Campeones 7",
+        "codigo_cadena": "CHAP6",
+        "dial": 183,
+        "casId": "4572",
+        "logo": "https://estatico.emisiondof6.com/recorte/m-DP/wpmos/CHAP6",
+        "mpd": "http://07campeones-dash-movistarplus.emisiondof6.com/manifest.mpd"
+    },
+    {
+        "nombre": "M+ Liga de Campeones 8",
+        "codigo_cadena": "CHAP7",
+        "dial": 184,
+        "casId": "4574",
+        "logo": "https://estatico.emisiondof6.com/recorte/m-DP/wpmos/CHAP7",
+        "mpd": "http://08campeones-dash-movistarplus.emisiondof6.com/manifest.mpd"
+    },
+    {
+        "nombre": "M+ Liga de Campeones 9",
+        "codigo_cadena": "CHAP8",
+        "dial": 185,
+        "casId": "4578",
+        "logo": "https://estatico.emisiondof6.com/recorte/m-DP/wpmos/CHAP8",
+        "mpd": "http://09campeones-dash-movistarplus.emisiondof6.com/manifest.mpd"
+    },
+    {
+        "nombre": "M+ Liga de Campeones 10",
+        "codigo_cadena": "CHAP9",
+        "dial": 186,
+        "casId": "5003",
+        "logo": "https://estatico.emisiondof6.com/recorte/m-DP/wpmos/CHAP9",
+        "mpd": "http://10campeones-dash-movistarplus.emisiondof6.com/manifest.mpd"
+    },
+    {
+        "nombre": "M+ Liga de Campeones 11",
+        "codigo_cadena": "CHAP10",
+        "dial": 187,
+        "casId": "5007",
+        "logo": "https://estatico.emisiondof6.com/recorte/m-DP/wpmos/CHAP10",
+        "mpd": "http://11campeones-dash-movistarplus.emisiondof6.com/manifest.mpd"
+    },
+    {
+        "nombre": "M+ Liga de Campeones 12",
+        "codigo_cadena": "CHAP11",
+        "dial": 188,
+        "casId": "5017",
+        "logo": "https://estatico.emisiondof6.com/recorte/m-DP/wpmos/CHAP11",
+        "mpd": "http://12campeones-dash-movistarplus.emisiondof6.com/manifest.mpd"
+    },
+    {
+        "nombre": "M+ Liga de Campeones 13",
+        "codigo_cadena": "CHAP12",
+        "dial": 189,
+        "casId": "5021",
+        "logo": "https://estatico.emisiondof6.com/recorte/m-DP/wpmos/CHAP12",
+        "mpd": "http://13campeones-dash-movistarplus.emisiondof6.com/manifest.mpd"
+    },
+    {
+        "nombre": "M+ Deportes 4",
+        "codigo_cadena": "USOP3",
+        "dial": 191,
+        "casId": "4561",
+        "logo": "https://estatico.emisiondof6.com/recorte/m-DP/wpmos/USOP3",
+        "mpd": "http://4multidep-dash-movistarplus.emisiondof6.com/manifest.mpd"
+    },
+    {
+        "nombre": "M+ Deportes 5",
+        "codigo_cadena": "USOP11",
+        "dial": 192,
+        "casId": "4562",
+        "logo": "https://estatico.emisiondof6.com/recorte/m-DP/wpmos/USOP11",
+        "mpd": "http://5multidep-dash-movistarplus.emisiondof6.com/manifest.mpd"
+    },
+    {
+        "nombre": "M+ Deportes 6",
+        "codigo_cadena": "MULTI8",
+        "dial": 193,
+        "casId": "4566",
+        "logo": "https://estatico.emisiondof6.com/recorte/m-DP/wpmos/MULTI8",
+        "mpd": "http://6multidep-dash-movistarplus.emisiondof6.com/manifest.mpd"
+    },
+    {
+        "nombre": "M+ Baloncesto 3",
+        "codigo_cadena": "MBALC3",
+        "dial": 194,
+        "casId": "5566",
+        "logo": "https://estatico.emisiondof6.com/recorte/m-DP/wpmos/MBALC3",
+        "mpd": "http://3mbasket-dash-movistarplus.emisiondof6.com/manifest.mpd"
+    },
+    {
+        "nombre": "M+ Baloncesto 4",
+        "codigo_cadena": "MBALC4",
+        "dial": 195,
+        "casId": "5612",
+        "logo": "https://estatico.emisiondof6.com/recorte/m-DP/wpmos/MBALC4",
+        "mpd": "http://4mbasket-dash-movistarplus.emisiondof6.com/manifest.mpd"
+    },
+    {
+        "nombre": "M+ Baloncesto 5",
+        "codigo_cadena": "MBALC5",
+        "dial": 196,
+        "casId": "5615",
+        "logo": "https://estatico.emisiondof6.com/recorte/m-DP/wpmos/MBALC5",
+        "mpd": "http://5mbasket-dash-movistarplus.emisiondof6.com/manifest.mpd"
+    },
+    {
+        "nombre": "DAZN 3",
+        "codigo_cadena": "DAZN3",
+        "dial": 197,
+        "casId": "4961",
+        "logo": "https://estatico.emisiondof6.com/recorte/m-DP/wpmos/DAZN3",
+        "mpd": "http://dazn3-dash-movistarplus.emisiondof6.com/manifest.mpd"
+    },
+    {
+        "nombre": "DAZN 4",
+        "codigo_cadena": "DAZN4",
+        "dial": 198,
+        "casId": "4962",
+        "logo": "https://estatico.emisiondof6.com/recorte/m-DP/wpmos/DAZN4",
+        "mpd": "http://dazn4-dash-movistarplus.emisiondof6.com/manifest.mpd"
+    },
+    {
+        "nombre": "SKAM",
+        "codigo_cadena": "SKAM",
+        "dial": 996,
+        "casId": "4896",
+        "logo": "https://estatico.emisiondof6.com/recorte/m-DP/wpmos/SKAM",
+        "mpd": "http://skam-dash-movistarplus.emisiondof6.com/manifest.mpd"
+    },
+    {
+        "nombre": "M+ Cero",
+        "codigo_cadena": "FREELI",
+        "dial": 126,
+        "casId": "5487",
+        "logo": "https://estatico.emisiondof6.com/recorte/m-DP/wpmos/FREELI",
+        "mpd": "http://freemiumorig-dash-movistarplus.emisiondof6.com/manifest.mpd"
+    },
+    {
+        "nombre": "M+ Cero 2",
+        "codigo_cadena": "CERO2",
+        "dial": 130,
+        "casId": "5618",
+        "logo": "https://estatico.emisiondof6.com/recorte/m-DP/wpmos/CERO2",
+        "mpd": "http://02origfreemium-dash-movistarplus.emisiondof6.com/manifest.mpd"
+    },
+    {
+        "nombre": "TV3",
+        "codigo_cadena": "TV3CAT",
+        "dial": 9,
+        "casId": "4982",
+        "logo": "https://estatico.emisiondof6.com/recorte/m-DP/wpmos/TV3CAT",
+        "mpd": "http://tdttv3-dash-movistarplus.emisiondof6.com/manifest.mpd"
+    },
+    {
+        "nombre": "La Otra",
+        "codigo_cadena": "OTRA",
+        "dial": 10,
+        "casId": "5601",
+        "logo": "https://estatico.emisiondof6.com/recorte/m-DP/wpmos/OTRA",
+        "mpd": "http://canalesabr-dash-movistarplus.emisiondof6.com/manifest.mpd"
+    },
+    {
+        "nombre": "TV Chile",
+        "codigo_cadena": "CHILE",
+        "dial": 145,
+        "casId": "5573",
+        "logo": "https://estatico.emisiondof6.com/recorte/m-DP/wpmos/CHILE",
+        "mpd": "http://canalesabr-dash-movistarplus.emisiondof6.com/manifest.mpd"
+    },
+    {
+        "nombre": "Canal de las Estrellas",
+        "codigo_cadena": "GALAV",
+        "dial": 144,
+        "casId": "5572",
+        "logo": "https://estatico.emisiondof6.com/recorte/m-DP/wpmos/GALAV",
+        "mpd": "http://canalesabr-dash-movistarplus.emisiondof6.com/manifest.mpd"
+    },
+    {
+        "nombre": "TV Colombia",
+        "codigo_cadena": "COLOMB",
+        "dial": 146,
+        "casId": "5574",
+        "logo": "https://estatico.emisiondof6.com/recorte/m-DP/wpmos/COLOMB",
+        "mpd": "http://canalesabr-dash-movistarplus.emisiondof6.com/manifest.mpd"
+    },
+    {
+        "nombre": "Cubavisión",
+        "codigo_cadena": "CUBAV",
+        "dial": 147,
+        "casId": "5575",
+        "logo": "https://estatico.emisiondof6.com/recorte/m-DP/wpmos/CUBAV",
+        "mpd": "http://canalesabr-dash-movistarplus.emisiondof6.com/manifest.mpd"
+    },
+    {
+        "nombre": "Telesur",
+        "codigo_cadena": "TLESUR",
+        "dial": 148,
+        "casId": "5576",
+        "logo": "https://estatico.emisiondof6.com/recorte/m-DP/wpmos/TLESUR",
+        "mpd": "http://canalesabr-dash-movistarplus.emisiondof6.com/manifest.mpd"
+    },
+    {
+        "nombre": "Iberalia TV",
+        "codigo_cadena": "IBERAL",
+        "dial": 83,
+        "casId": "5577",
+        "logo": "https://estatico.emisiondof6.com/recorte/m-DP/wpmos/IBERAL",
+        "mpd": "http://canalesabr-dash-movistarplus.emisiondof6.com/manifest.mpd"
+    },
+    {
+        "nombre": "Atlántico TV",
+        "codigo_cadena": "ATLAT",
+        "dial": 10,
+        "casId": "5603",
+        "logo": "https://estatico.emisiondof6.com/recorte/m-DP/wpmos/ATLAT",
+        "mpd": "http://canalesabr-dash-movistarplus.emisiondof6.com/manifest.mpd"
+    },
+    {
+        "nombre": "TPA",
+        "codigo_cadena": "TPA",
+        "dial": 9,
+        "casId": "5596",
+        "logo": "https://estatico.emisiondof6.com/recorte/m-DP/wpmos/TPA",
+        "mpd": "http://canalesabr-dash-movistarplus.emisiondof6.com/manifest.mpd"
+    },
+    {
+        "nombre": "Andalucía TV",
+        "codigo_cadena": "ANDATV",
+        "dial": 10,
+        "casId": "5598",
+        "logo": "https://estatico.emisiondof6.com/recorte/m-DP/wpmos/ANDATV",
+        "mpd": "http://canalesabr-dash-movistarplus.emisiondof6.com/manifest.mpd"
+    },
+    {
+        "nombre": "SX3",
+        "codigo_cadena": "C33",
+        "dial": 119,
+        "casId": "5602",
+        "logo": "https://estatico.emisiondof6.com/recorte/m-DP/wpmos/C33",
+        "mpd": "http://canalesabr-dash-movistarplus.emisiondof6.com/manifest.mpd"
+    },
+    {
+        "nombre": "3CatInfo",
+        "codigo_cadena": "3_24",
+        "dial": 134,
+        "casId": "5604",
+        "logo": "https://estatico.emisiondof6.com/recorte/m-DP/wpmos/3_24",
+        "mpd": "http://canalesabr-dash-movistarplus.emisiondof6.com/manifest.mpd"
+    },
+    {
+        "nombre": "EWTN",
+        "codigo_cadena": "EWTN",
+        "dial": 149,
+        "casId": "5608",
+        "logo": "https://estatico.emisiondof6.com/recorte/m-DP/wpmos/EWTN",
+        "mpd": "http://canalesabr-dash-movistarplus.emisiondof6.com/manifest.mpd"
+    },
+    {
+        "nombre": "Esport 3",
+        "codigo_cadena": "ESP3",
+        "dial": 164,
+        "casId": "5605",
+        "logo": "https://estatico.emisiondof6.com/recorte/m-DP/wpmos/ESP3",
+        "mpd": "http://canalesabr-dash-movistarplus.emisiondof6.com/manifest.mpd"
+    },
+    {
+        "nombre": "Betevé",
+        "codigo_cadena": "BTV",
+        "dial": 166,
+        "casId": "5606",
+        "logo": "https://estatico.emisiondof6.com/recorte/m-DP/wpmos/BTV",
+        "mpd": "http://canalesabr-dash-movistarplus.emisiondof6.com/manifest.mpd"
+    },
+    {
+        "nombre": "Playboy TV",
+        "codigo_cadena": "PBOY",
+        "dial": 190,
+        "casId": "5607",
+        "logo": "https://estatico.emisiondof6.com/recorte/m-DP/wpmos/PBOY",
+        "mpd": "http://canalesabr-dash-movistarplus.emisiondof6.com/manifest.mpd"
+    },
+    {
+        "nombre": "La Ocho TV",
+        "codigo_cadena": "MEDITE",
+        "dial": 10,
+        "casId": "5600",
+        "logo": "https://estatico.emisiondof6.com/recorte/m-DP/wpmos/MEDITE",
+        "mpd": "http://canalesabr-dash-movistarplus.emisiondof6.com/manifest.mpd"
+    },
+    {
+        "nombre": "TVG 2",
+        "codigo_cadena": "TVG2",
+        "dial": 10,
+        "casId": "5567",
+        "logo": "https://estatico.emisiondof6.com/recorte/m-DP/wpmos/TVG2",
+        "mpd": "http://canalesabr-dash-movistarplus.emisiondof6.com/manifest.mpd"
+    },
+    {
+        "nombre": "etb2",
+        "codigo_cadena": "ETB2",
+        "dial": 10,
+        "casId": "5599",
+        "logo": "https://estatico.emisiondof6.com/recorte/m-DP/wpmos/ETB2",
+        "mpd": "http://canalesabr-dash-movistarplus.emisiondof6.com/manifest.mpd"
+    },
+    {
+        "nombre": "33",
+        "codigo_cadena": "CAN33",
+        "dial": 10,
+        "casId": "5597",
+        "logo": "https://estatico.emisiondof6.com/recorte/m-DP/wpmos/CAN33",
+        "mpd": "http://canalesabr-dash-movistarplus.emisiondof6.com/manifest.mpd"
+    },
+    {
+        "nombre": "LA 1 (ARAGÓN)",
+        "codigo_cadena": "LA1AR",
+        "dial": 1,
+        "casId": "5582",
+        "logo": "https://estatico.emisiondof6.com/recorte/m-DP/wpmos/LA1AR",
+        "mpd": "http://canalesabr-dash-movistarplus.emisiondof6.com/manifest.mpd"
+    },
+    {
+        "nombre": "LA 1 (CANARIAS)",
+        "codigo_cadena": "LA1CAN",
+        "dial": 1,
+        "casId": "5590",
+        "logo": "https://estatico.emisiondof6.com/recorte/m-DP/wpmos/LA1CAN",
+        "mpd": "http://canalesabr-dash-movistarplus.emisiondof6.com/manifest.mpd"
+    },
+    {
+        "nombre": "LA 1 (CASTILLA LA MANCHA)",
+        "codigo_cadena": "LA1CM",
+        "dial": 1,
+        "casId": "5579",
+        "logo": "https://estatico.emisiondof6.com/recorte/m-DP/wpmos/LA1CM",
+        "mpd": "http://canalesabr-dash-movistarplus.emisiondof6.com/manifest.mpd"
+    },
+    {
+        "nombre": "LA 1 (NAVARRA)",
+        "codigo_cadena": "LA1NA",
+        "dial": null,
+        "casId": "5586",
+        "logo": "https://estatico.emisiondof6.com/recorte/m-DP/wpmos/LA1NA",
+        "mpd": "http://canalesabr-dash-movistarplus.emisiondof6.com/manifest.mpd"
+    },
+    {
+        "nombre": "LA 1 (LA RIOJA)",
+        "codigo_cadena": "LA1LR",
+        "dial": 1,
+        "casId": "5587",
+        "logo": "https://estatico.emisiondof6.com/recorte/m-DP/wpmos/LA1LR",
+        "mpd": "http://canalesabr-dash-movistarplus.emisiondof6.com/manifest.mpd"
+    },
+    {
+        "nombre": "LA 2 (CAT)",
+        "codigo_cadena": "LA2CAT",
+        "dial": 2,
+        "casId": "5592",
+        "logo": "https://estatico.emisiondof6.com/recorte/m-DP/wpmos/LA2CAT",
+        "mpd": "http://canalesabr-dash-movistarplus.emisiondof6.com/manifest.mpd"
+    },
+    {
+        "nombre": "Telecinco Canarias",
+        "codigo_cadena": "T5CAN",
+        "dial": 5,
+        "casId": "5595",
+        "logo": "https://estatico.emisiondof6.com/recorte/m-DP/wpmos/T5CAN",
+        "mpd": "http://canalesabr-dash-movistarplus.emisiondof6.com/manifest.mpd"
+    },
+    {
+        "nombre": "Antena 3 (CANARIAS)",
+        "codigo_cadena": "A3CAN",
+        "dial": 3,
+        "casId": "5594",
+        "logo": "https://estatico.emisiondof6.com/recorte/m-DP/wpmos/A3CAN",
+        "mpd": "http://canalesabr-dash-movistarplus.emisiondof6.com/manifest.mpd"
+    },
+    {
+        "nombre": "LA 1 (GALICIA)",
+        "codigo_cadena": "LA1GAL",
+        "dial": 1,
+        "casId": "5584",
+        "logo": "https://estatico.emisiondof6.com/recorte/m-DP/wpmos/LA1GAL",
+        "mpd": "http://canalesabr-dash-movistarplus.emisiondof6.com/manifest.mpd"
+    },
+    {
+        "nombre": "LA 1 (MADRID)",
+        "codigo_cadena": "LA1MAD",
+        "dial": 1,
+        "casId": "5588",
+        "logo": "https://estatico.emisiondof6.com/recorte/m-DP/wpmos/LA1MAD",
+        "mpd": "http://canalesabr-dash-movistarplus.emisiondof6.com/manifest.mpd"
+    },
+    {
+        "nombre": "LA 1 (CAT)",
+        "codigo_cadena": "LA1CAT",
+        "dial": 1,
+        "casId": "5591",
+        "logo": "https://estatico.emisiondof6.com/recorte/m-DP/wpmos/LA1CAT",
+        "mpd": "http://canalesabr-dash-movistarplus.emisiondof6.com/manifest.mpd"
+    },
+    {
+        "nombre": "LA 1 (VALENCIA)",
+        "codigo_cadena": "LA1VAL",
+        "dial": 1,
+        "casId": "5589",
+        "logo": "https://estatico.emisiondof6.com/recorte/m-DP/wpmos/LA1VAL",
+        "mpd": "http://canalesabr-dash-movistarplus.emisiondof6.com/manifest.mpd"
+    },
+    {
+        "nombre": "LA 1 (ASTURIAS)",
+        "codigo_cadena": "LA1AST",
+        "dial": 1,
+        "casId": "5570",
+        "logo": "https://estatico.emisiondof6.com/recorte/m-DP/wpmos/LA1AST",
+        "mpd": "http://canalesabr-dash-movistarplus.emisiondof6.com/manifest.mpd"
+    },
+    {
+        "nombre": "LA 1 (ANDALUCÍA)",
+        "codigo_cadena": "LA1AND",
+        "dial": 1,
+        "casId": "5571",
+        "logo": "https://estatico.emisiondof6.com/recorte/m-DP/wpmos/LA1AND",
+        "mpd": "http://canalesabr-dash-movistarplus.emisiondof6.com/manifest.mpd"
+    },
+    {
+        "nombre": "LA 1 (CASTILLA Y LEÓN)",
+        "codigo_cadena": "LA1CL",
+        "dial": 1,
+        "casId": "5580",
+        "logo": "https://estatico.emisiondof6.com/recorte/m-DP/wpmos/LA1CL",
+        "mpd": "http://canalesabr-dash-movistarplus.emisiondof6.com/manifest.mpd"
+    },
+    {
+        "nombre": "LA 1 (MURCIA)",
+        "codigo_cadena": "LA1MUR",
+        "dial": 1,
+        "casId": "5569",
+        "logo": "https://estatico.emisiondof6.com/recorte/m-DP/wpmos/LA1MUR",
+        "mpd": "http://canalesabr-dash-movistarplus.emisiondof6.com/manifest.mpd"
+    },
+    {
+        "nombre": "LA 1 (BALEARES)",
+        "codigo_cadena": "LA1BAL",
+        "dial": 1,
+        "casId": "5568",
+        "logo": "https://estatico.emisiondof6.com/recorte/m-DP/wpmos/LA1BAL",
+        "mpd": "http://canalesabr-dash-movistarplus.emisiondof6.com/manifest.mpd"
+    },
+    {
+        "nombre": "LA 1 (EXTREMADURA)",
+        "codigo_cadena": "LA1EXT",
+        "dial": 1,
+        "casId": "5583",
+        "logo": "https://estatico.emisiondof6.com/recorte/m-DP/wpmos/LA1EXT",
+        "mpd": "http://canalesabr-dash-movistarplus.emisiondof6.com/manifest.mpd"
+    },
+    {
+        "nombre": "LA 1 (PAÍS VASCO)",
+        "codigo_cadena": "LA1PV",
+        "dial": 1,
+        "casId": "5581",
+        "logo": "https://estatico.emisiondof6.com/recorte/m-DP/wpmos/LA1PV",
+        "mpd": "http://canalesabr-dash-movistarplus.emisiondof6.com/manifest.mpd"
+    },
+    {
+        "nombre": "LA 1 (CANTABRIA)",
+        "codigo_cadena": "LA1CB",
+        "dial": null,
+        "casId": "5578",
+        "logo": "https://estatico.emisiondof6.com/recorte/m-DP/wpmos/LA1CB",
+        "mpd": "http://canalesabr-dash-movistarplus.emisiondof6.com/manifest.mpd"
+    },
+    {
+        "nombre": "LA 2 (CANARIAS)",
+        "codigo_cadena": "LA2CAN",
+        "dial": 2,
+        "casId": "5593",
+        "logo": "https://estatico.emisiondof6.com/recorte/m-DP/wpmos/LA2CAN",
+        "mpd": "http://canalesabr-dash-movistarplus.emisiondof6.com/manifest.mpd"
+    },
+    {
+        "nombre": "TVG -TV Galicia",
+        "codigo_cadena": "TVGAL",
+        "dial": 9,
+        "casId": "4983",
+        "logo": "https://estatico.emisiondof6.com/recorte/m-DP/wpmos/TVGAL",
+        "mpd": "http://tdt1galicia-dash-movistarplus.emisiondof6.com/manifest.mpd"
+    },
+    {
+        "nombre": "Telemadrid",
+        "codigo_cadena": "TELMAD",
+        "dial": 9,
+        "casId": "4981",
+        "logo": "https://estatico.emisiondof6.com/recorte/m-DP/wpmos/TELMAD",
+        "mpd": "http://tdttelemadrid-dash-movistarplus.emisiondof6.com/manifest.mpd"
+    },
+    {
+        "nombre": "etb1",
+        "codigo_cadena": "ETB1",
+        "dial": 9,
+        "casId": "5074",
+        "logo": "https://estatico.emisiondof6.com/recorte/m-DP/wpmos/ETB1",
+        "mpd": "http://tdt1etb-dash-movistarplus.emisiondof6.com/manifest.mpd"
+    },
+    {
+        "nombre": "Navarra TV",
+        "codigo_cadena": "NAVA",
+        "dial": 9,
+        "casId": "5210",
+        "logo": "https://estatico.emisiondof6.com/recorte/m-DP/wpmos/NAVA",
+        "mpd": "http://tdtnavarra-dash-movistarplus.emisiondof6.com/manifest.mpd"
+    },
+    {
+        "nombre": "Aragón TV",
+        "codigo_cadena": "ARAGTV",
+        "dial": 9,
+        "casId": "5090",
+        "logo": "https://estatico.emisiondof6.com/recorte/m-DP/wpmos/ARAGTV",
+        "mpd": "http://tdttvaragon-dash-movistarplus.emisiondof6.com/manifest.mpd"
+    },
+    {
+        "nombre": "Canal Sur",
+        "codigo_cadena": "CANSUR",
+        "dial": 9,
+        "casId": "4980",
+        "logo": "https://estatico.emisiondof6.com/recorte/m-DP/wpmos/CANSUR",
+        "mpd": "http://tdtcsur-dash-movistarplus.emisiondof6.com/manifest.mpd"
+    },
+    {
+        "nombre": "TV Canaria",
+        "codigo_cadena": "CANAR",
+        "dial": 9,
+        "casId": "5089",
+        "logo": "https://estatico.emisiondof6.com/recorte/m-DP/wpmos/CANAR",
+        "mpd": "http://tdttvcanarias-dash-movistarplus.emisiondof6.com/manifest.mpd"
+    },
+    {
+        "nombre": "Castilla la Mancha TV",
+        "codigo_cadena": "CASMAN",
+        "dial": 9,
+        "casId": "5265",
+        "logo": "https://estatico.emisiondof6.com/recorte/m-DP/wpmos/CASMAN",
+        "mpd": "http://tdtcastmancha-dash-movistarplus.emisiondof6.com/manifest.mpd"
+    },
+    {
+        "nombre": "La 7",
+        "codigo_cadena": "CYLTV",
+        "dial": 9,
+        "casId": "5266",
+        "logo": "https://estatico.emisiondof6.com/recorte/m-DP/wpmos/CYLTV",
+        "mpd": "http://tdtcastleon-dash-movistarplus.emisiondof6.com/manifest.mpd"
+    },
+    {
+        "nombre": "Canal Extremadura",
+        "codigo_cadena": "EXTRE",
+        "dial": 9,
+        "casId": "5357",
+        "logo": "https://estatico.emisiondof6.com/recorte/m-DP/wpmos/EXTRE",
+        "mpd": "http://tdtextremad-dash-movistarplus.emisiondof6.com/manifest.mpd"
+    },
+    {
+        "nombre": "IB3",
+        "codigo_cadena": "IB3",
+        "dial": 9,
+        "casId": "5091",
+        "logo": "https://estatico.emisiondof6.com/recorte/m-DP/wpmos/IB3",
+        "mpd": "http://tdt3ibiza-dash-movistarplus.emisiondof6.com/manifest.mpd"
+    },
+    {
+        "nombre": "À Punt",
+        "codigo_cadena": "APUNT",
+        "dial": 9,
+        "casId": "5088",
+        "logo": "https://estatico.emisiondof6.com/recorte/m-DP/wpmos/APUNT",
+        "mpd": "http://tdtapuntvalencia-dash-movistarplus.emisiondof6.com/manifest.mpd"
+    },
+    {
+        "nombre": "7 TV Región Murcia",
+        "codigo_cadena": "7TVMUR",
+        "dial": 9,
+        "casId": "5356",
+        "logo": "https://estatico.emisiondof6.com/recorte/m-DP/wpmos/7TVMUR",
+        "mpd": "http://tdtmurcia-dash-movistarplus.emisiondof6.com/manifest.mpd"
+    }
+]
