@@ -1606,5 +1606,53 @@
         "casId": "5356",
         "logo": "https://estatico.emisiondof6.com/recorte/m-DP/wpmos/7TVMUR",
         "mpd": "http://tdtmurcia-dash-movistarplus.emisiondof6.com/manifest.mpd"
+    },
+    {
+        "nombre": "M+ Liga de Campeones 14",
+        "codigo_cadena": "CHAP13",
+        "dial": 170,
+        "casId": "5108",
+        "logo": "https://estatico.emisiondof6.com/recorte/m-DP/wpmos/CHAP13",
+        "mpd": "http://14campeones-dash-movistarplus.emisiondof6.com/manifest.mpd"
+    },
+    {
+        "nombre": "M+ Liga de Campeones 15",
+        "codigo_cadena": "CHAP14",
+        "dial": 171,
+        "casId": "5110",
+        "logo": "https://estatico.emisiondof6.com/recorte/m-DP/wpmos/CHAP14",
+        "mpd": "http://15campeones-dash-movistarplus.emisiondof6.com/manifest.mpd"
+    },
+    {
+        "nombre": "M+ Liga de Campeones 16",
+        "codigo_cadena": "CHAP15",
+        "dial": 172,
+        "casId": "5112",
+        "logo": "https://estatico.emisiondof6.com/recorte/m-DP/wpmos/CHAP15",
+        "mpd": "http://16campeones-dash-movistarplus.emisiondof6.com/manifest.mpd"
+    },
+    {
+        "nombre": "M+ Liga de Campeones 17",
+        "codigo_cadena": "CHAP16",
+        "dial": 173,
+        "casId": "5114",
+        "logo": "https://estatico.emisiondof6.com/recorte/m-DP/wpmos/CHAP16",
+        "mpd": "http://17campeones-dash-movistarplus.emisiondof6.com/manifest.mpd"
+    },
+    {
+        "nombre": "M+ Liga de Campeones 18",
+        "codigo_cadena": "CHAP18",
+        "dial": 174,
+        "casId": "5335",
+        "logo": "https://estatico.emisiondof6.com/recorte/m-DP/wpmos/CHAP18",
+        "mpd": "http://18campeones-dash-movistarplus.emisiondof6.com/manifest.mpd"
+    },
+    {
+        "nombre": "M+ Liga de Campeones 19",
+        "codigo_cadena": "CHAP19",
+        "dial": 175,
+        "casId": "5337",
+        "logo": "https://estatico.emisiondof6.com/recorte/m-DP/wpmos/CHAP19",
+        "mpd": "http://19campeones-dash-movistarplus.emisiondof6.com/manifest.mpd"
     }
 ]
