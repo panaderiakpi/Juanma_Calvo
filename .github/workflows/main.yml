@@ -1,7 +1,7 @@
 name: Ejecutar SCRIPT
 
 on:
-   workflow_dispatch: # Permitir ejecución manual
+  workflow_dispatch: # Permite ejecución manual
 
 jobs:
   upload-m3u:
@@ -10,7 +10,7 @@ jobs:
     steps:
       # Paso 1: Descargar el repositorio
       - name: Checkout repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@v3
 
       # Paso 2: Instalar dependencias del sistema y de Python
       - name: Install dependencies (Python & OpenVPN)
@@ -27,7 +27,7 @@ jobs:
       # Paso 3: Preparar credenciales de VPN e IP original
       - name: Setup VPN credentials and store original IP
         run: |
-          echo "${{ secrets.OVPN_SURFSHARK }}" > openvpn_config.ovpn
+          echo "${{ secrets.OVPN_TIBURON }}" > openvpn_config.ovpn
           echo "${{ secrets.VPN_USER }}" > vpn_auth.txt
           echo "${{ secrets.VPN_PASS }}" >> vpn_auth.txt
           
@@ -36,7 +36,7 @@ jobs:
           cat ip_original.txt
           echo ""
         env:
-          OVPN_SURFSHARK: ${{ secrets.OVPN_SURFSHARK }}
+          OVPN_TIBURON: ${{ secrets.OVPN_TIBURON }}
 
       # Paso 4: Bucle de ejecución con cambio de IP en caso de fallo
       - name: Connect VPN and Run Python Script (With Retries)
@@ -99,8 +99,7 @@ jobs:
           git config user.name "GitHub Actions Bot"
           git config user.email "actions@github.com"
           git add . 
-          git diff --cached --exit-code || git commit -m "Actualizar archivos generados por RefreshGif.py"
-          git pull --rebase origin main  # <-- ESTA ES LA ÚNICA LÍNEA NUEVA
+          git diff --cached --exit-code || git commit -m "Actualizar archivos generados por RefreshPapa.py"
           git push
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
