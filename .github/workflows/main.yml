@@ -27,7 +27,7 @@ jobs:
       # Paso 3: Preparar credenciales de VPN e IP original
       - name: Setup VPN credentials and store original IP
         run: |
-          echo "${{ secrets.OVPN_TIBURON }}" > openvpn_config.ovpn
+          echo "${{ secrets.OVPN_SURFSHARK }}" > openvpn_config.ovpn
           echo "${{ secrets.VPN_USER }}" > vpn_auth.txt
           echo "${{ secrets.VPN_PASS }}" >> vpn_auth.txt
           
